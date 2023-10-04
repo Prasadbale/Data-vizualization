@@ -8,7 +8,7 @@ Welcome to my personal repository where I showcase a collection of my Explorator
 
 ## Project List
 
-1. World Instant Noodle Consumption
+1. [World Instant Noodle Consumption](https://github.com/Prasadbale/EDA-Data-Visualization/tree/2997480435626f85e36ff9b5a6c57c0c9a5314a0/project1)
    - Description: An in-depth analysis of monthly sales data, including visualizations of sales trends and patterns.
    - Tools: Python, Matplotlib, Seaborn.
 
