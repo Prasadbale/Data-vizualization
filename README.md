@@ -8,7 +8,7 @@ Welcome to my personal repository where I showcase a collection of my Explorator
 
 ## Project List
 
-1. [World Instant Noodle Consumption](/projects/project1/)
+1. <font color = 'blue'>[World Instant Noodle Consumption]</font>
    - Description: An in-depth analysis of monthly sales data, including visualizations of sales trends and patterns.
    - Tools: Python, Matplotlib, Seaborn.
 
